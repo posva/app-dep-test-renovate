@@ -5,10 +5,6 @@
   "statusCheckVerify": true,
   "packageRules": [
     {
-      "packagePatterns": [".*"],
-      "enabled": false
-    },
-    {
       "packageNames": ["@posva/test-pr-lib"],
       "enabled": true
     }
