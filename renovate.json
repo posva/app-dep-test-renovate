@@ -6,10 +6,12 @@
   "packageRules": [
     {
       "packageNames": [".*"],
+      "groupName": "all",
       "enabled": false
     },
     {
       "packageNames": ["@posva/test-pr-lib"],
+      "groupName": "lib",
       "enabled": true
     }
   ]
