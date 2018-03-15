@@ -3,6 +3,7 @@
     "config:base"
   ],
   "statusCheckVerify": true,
+  "pinVersions": false,
   "packageRules": [
     {
       "packagePatterns": [".*"],
