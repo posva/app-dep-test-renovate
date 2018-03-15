@@ -12,9 +12,8 @@
       "enabled": false
     },
     {
-      "packageNames": ["vue"],
+      "packageNames": ["posva-test-pr-lib"],
       "groupName": "lib",
-      "allowedVersions": ">=2.0.0",
       "enabled": true
     }
   ]
