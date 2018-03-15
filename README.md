@@ -1,3 +1,3 @@
 
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/posva/app-dep-test.svg)](https://greenkeeper.io/)
+This is just a test for renovate, with beta releases
