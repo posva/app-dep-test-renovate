@@ -2,10 +2,6 @@
 # yarn lockfile v1
 
 
-"@posva/test-pr-lib@^1.0.1":
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/@posva/test-pr-lib/-/test-pr-lib-1.0.5.tgz#e19993fadc0268696fa1f5d3ad83d2fe6e08586b"
-
 "@posva/test-pr-other-lib@^1.0.1":
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/@posva/test-pr-other-lib/-/test-pr-other-lib-1.0.3.tgz#664d32e67e78e4f8c27befcdf2f058f43cc60f4e"
@@ -158,6 +154,10 @@ path-parse@^1.0.5:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.5.tgz#3c1adf871ea9cd6c9431b6ea2bd74a0ff055c4c1"
 
+posva-test-pr-lib@1.0.7:
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/posva-test-pr-lib/-/posva-test-pr-lib-1.0.7.tgz#62de428e581712ab362a3650faff2f09abec3071"
+
 resolve@~1.5.0:
   version "1.5.0"
   resolved "https://registry.yarnpkg.com/resolve/-/resolve-1.5.0.tgz#1f09acce796c9a762579f31b2c1cc4c3cddf9f36"
@@ -200,9 +200,9 @@ through@~2.3.4, through@~2.3.8:
   version "2.3.8"
   resolved "https://registry.yarnpkg.com/through/-/through-2.3.8.tgz#0dd4c9ffaabc357960b1b724115d7e0e86a2e1f5"
 
-vue@2.4.2:
-  version "2.4.2"
-  resolved "https://registry.yarnpkg.com/vue/-/vue-2.4.2.tgz#a9855261f191c978cc0dc1150531b8d08149b58c"
+vue@^2.4.2:
+  version "2.5.16"
+  resolved "https://registry.yarnpkg.com/vue/-/vue-2.5.16.tgz#07edb75e8412aaeed871ebafa99f4672584a0085"
 
 wrappy@1:
   version "1.0.2"
