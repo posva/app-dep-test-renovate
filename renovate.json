@@ -3,7 +3,14 @@
     "config:base"
   ],
   "statusCheckVerify": true,
-  "packageNames": [
-    "@posva/test-pr-lib"
+  "packageRules": [
+    {
+      "packagePatterns": [".*"],
+      "enabled": false
+    },
+    {
+      "packageNames": ["@posva/test-pr-lib"],
+      "enabled": true
+    }
   ]
 }
