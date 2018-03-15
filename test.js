@@ -1,5 +1,5 @@
 const test = require('tape')
-const lib = require('@posva/test-pr-lib')
+const lib = require('posva-test-pr-lib')
 
 test('timing test', t => {
   t.plan(1)
