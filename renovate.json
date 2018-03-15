@@ -5,7 +5,7 @@
   "statusCheckVerify": true,
   "packageRules": [
     {
-      "packageNames": [".*"],
+      "packagePatterns": [".*"],
       "groupName": "all",
       "enabled": false
     },
