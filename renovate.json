@@ -10,7 +10,7 @@
       "enabled": false
     },
     {
-      "packageNames": ["@posva/test-pr-lib"],
+      "packageNames": ["vue"],
       "groupName": "lib",
       "enabled": true
     }
