@@ -14,6 +14,7 @@
     },
     {
       "packageNames": ["posva-test-pr-lib"],
+      "respectLatest": false,
       "groupName": "lib",
       "enabled": true
     }
