@@ -154,9 +154,9 @@ path-parse@^1.0.5:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.5.tgz#3c1adf871ea9cd6c9431b6ea2bd74a0ff055c4c1"
 
-posva-test-pr-lib@1.1.1-0:
-  version "1.1.1-0"
-  resolved "https://registry.yarnpkg.com/posva-test-pr-lib/-/posva-test-pr-lib-1.1.1-0.tgz#3c0fb93d5821d376600612b025f203b0aa98c379"
+posva-test-pr-lib@1.1.4-1:
+  version "1.1.4-1"
+  resolved "https://registry.yarnpkg.com/posva-test-pr-lib/-/posva-test-pr-lib-1.1.4-1.tgz#8e7cd6a1447628fc3bcfead5f3ec19422a2af4ec"
 
 resolve@~1.5.0:
   version "1.5.0"
