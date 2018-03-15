@@ -4,6 +4,7 @@
   ],
   "statusCheckVerify": true,
   "pinVersions": false,
+  "prHourlyLimit": 0,
   "packageRules": [
     {
       "packagePatterns": [".*"],
