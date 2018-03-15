@@ -4,6 +4,7 @@
   ],
   "statusCheckVerify": true,
   "pinVersions": false,
+  "ignoreUnstable": false,
   "prHourlyLimit": 0,
   "packageRules": [
     {
