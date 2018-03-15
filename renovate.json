@@ -13,6 +13,7 @@
     {
       "packageNames": ["vue"],
       "groupName": "lib",
+      "allowedVersions": ">=2.0.0",
       "enabled": true
     }
   ]
