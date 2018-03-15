@@ -7,8 +7,8 @@
     "test": "tape test.js"
   },
   "dependencies": {
-    "posva-test-pr-lib": "1.0.7",
     "@posva/test-pr-other-lib": "^1.0.1",
+    "posva-test-pr-lib": "canary",
     "tape": "^4.9.0",
     "vue": "^2.4.2"
   }
