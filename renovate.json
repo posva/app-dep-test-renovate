@@ -2,9 +2,6 @@
   "extends": [
     "config:base"
   ],
-  "statusCheckVerify": true,
-  "pinVersions": false,
-  "ignoreUnstable": false,
   "prHourlyLimit": 0,
   "packageRules": [
     {
@@ -15,6 +12,7 @@
     {
       "packageNames": ["posva-test-pr-lib"],
       "respectLatest": false,
+      "ignoreUnstable": false,
       "groupName": "lib",
       "enabled": true
     }
